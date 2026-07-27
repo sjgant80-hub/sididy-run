@@ -1,0 +1,12 @@
+{
+  "name": "sididy-run",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "sididy-run.mjs",
+  "description": "The runtime layer — run-local: bring the whole estate up as one persistent, governed live mesh on your own electric. The wisps dance within a power budget, then rest clean.",
+  "author": "sjgant80-hub <sjgant80@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test"
+  }
+}
